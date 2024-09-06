@@ -1,1 +1,1 @@
-Exercício calculadora simples com Android e Jetpack Compose.
+Repositório de exercícios da disciplina de Soluções Mobile.
